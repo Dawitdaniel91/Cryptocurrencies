@@ -44,11 +44,25 @@ During the analysis the following method is used:
   
 ### Deliverable 2: Reducing Data Dimensions Using PCA
 
+ ##### Create a DataFrame with the three principal components
+
+![image](https://user-images.githubusercontent.com/80365882/125849103-1d298042-1153-449d-8067-0515bce36c8d.png)
+
+### Deliverable 3: Clustering Cryptocurrencies Using K-means
+
 ##### Clustering Cryptocurrencies using K-Means - Elbow Curve
 
 elbow curve below using the K-Means method iterating on k values from 1 to 10
 
 ![image](https://user-images.githubusercontent.com/80365882/125848325-a415a5ee-7d84-4744-9650-38da2b1d6436.png)
 
+### Deliverable 4: Visualizing Cryptocurrencies Results
 
+##### Visualizing Cryptocurrencies
+
+###### 3D-Scatter plot with clusters
+
+![image](https://user-images.githubusercontent.com/80365882/125849757-783f2757-8b13-4197-9c16-73d57522583a.png)
+
+Create a new DataFrame that has the scaled data with the clustered_df DataFrame index
 
