@@ -66,6 +66,10 @@ elbow curve below using the K-Means method iterating on k values from 1 to 10
 
 The abouve 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
 
+##### 2D-Scatter plot with clusters
+
+![image](https://user-images.githubusercontent.com/80365882/125852997-3f5bed42-084d-43da-af53-db98a7aa2809.png)
+
 ##### Tradable Cryptocurrencies Table
 
 ##### Table 2: Tradable Cryptocurrencies 
