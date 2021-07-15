@@ -38,10 +38,17 @@ During the analysis the following method is used:
 
 ### Deliverable 1: Preprocessing the Data for PCA
 
-The objectiv of deliverable 1 is 
-
-  . to create crypto_df DataFrame by using five preprocessing steps
+##### Table 1 create crypto_df DataFrame 
   
   ![image](https://user-images.githubusercontent.com/80365882/125846871-c5bf55bd-00c6-4927-8927-47e3e204b2ab.png)
+  
+### Deliverable 2: Reducing Data Dimensions Using PCA
+
+##### Clustering Cryptocurrencies using K-Means - Elbow Curve
+
+elbow curve below using the K-Means method iterating on k values from 1 to 10
+
+![image](https://user-images.githubusercontent.com/80365882/125848325-a415a5ee-7d84-4744-9650-38da2b1d6436.png)
+
 
 
