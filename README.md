@@ -38,7 +38,7 @@ During the analysis the following method is used:
 
 ### Deliverable 1: Preprocessing the Data for PCA
 
-##### Table 1 create crypto_df DataFrame 
+##### Table 1: create crypto_df DataFrame 
   
   ![image](https://user-images.githubusercontent.com/80365882/125846871-c5bf55bd-00c6-4927-8927-47e3e204b2ab.png)
   
@@ -64,5 +64,31 @@ elbow curve below using the K-Means method iterating on k values from 1 to 10
 
 ![image](https://user-images.githubusercontent.com/80365882/125849757-783f2757-8b13-4197-9c16-73d57522583a.png)
 
-Create a new DataFrame that has the scaled data with the clustered_df DataFrame index
+The abouve 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+
+##### Tradable Cryptocurrencies Table
+
+##### Table 2: Tradable Cryptocurrencies 
+
+![image](https://user-images.githubusercontent.com/80365882/125851487-17a2a6e7-43ce-48e5-bdfd-1c7ba21d7359.png)
+
+Most of the cryptocurrencies are part of class #0 and #1.
+The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
+
+## Create a DataFrame with the two principal components
+
+![image](https://user-images.githubusercontent.com/80365882/125852154-94c7aa5c-084c-4093-ab75-3e9733fa587d.png)
+
+##### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
+
+![image](https://user-images.githubusercontent.com/80365882/125852246-dab9dcd7-f6a9-430b-8f32-07f9090fabf3.png)
+
+Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
+
+## Summary
+
+We have identified the classification of 532 cryptocurrencies based on similarities of their features
+
+
+
 
