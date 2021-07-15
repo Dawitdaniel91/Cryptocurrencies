@@ -91,7 +91,7 @@ Plotting the scatter plot from two cryptocurrency features directly does not eff
 
 ## Summary
 
-We have identified the classification of 532 cryptocurrencies based on similarities of their features
+ 532 cryptocurrencies classification identified based on similarities of their features
 
 
 
